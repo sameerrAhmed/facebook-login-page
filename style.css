@@ -1,0 +1,132 @@
+*
+{
+ padding:0px;
+ margin:0px;
+
+}
+
+body
+{
+ background:linear-gradient(white,blue) 
+
+}
+
+.header-control
+{
+ background-color:#3F5C9A;
+ width:100%;
+ height:92px;
+}
+
+.control-align
+{
+ width:980px;
+ height:300px;
+ margin-left:auto;
+ margin-right:auto;
+}
+.img-control
+{
+ float:left;
+}
+.img-control img
+{
+ width:200px;
+ height:110px;
+ margin-bottom:30px;
+}
+.login
+{
+ float:right;
+ font-family:Arial;
+ font-size:13px;
+ color:white;
+ margin-top:30px;
+}
+.login p
+{
+ margin-left:10px;
+}
+
+
+.inputtxt
+{
+ width:150px;
+ height:20px;
+ margin-left:10px;
+}
+.btn
+{
+ background-color:#2980b9;
+ color:white;
+ font-family:Arial;
+ padding:05px 05px 05px 05px;
+ border:1px solid #29487d;
+ border-radius:02px;
+ margin-left:05px;
+}
+.login a
+{
+ color:white;
+ text-decoration:none;
+}
+.content-control
+{
+ width:980px;
+ height:1000px;
+ margin-left:auto;
+ margin-right:auto;
+}
+.left
+{
+ float:left;
+ margin-bottom:1200px;
+ width:400px;
+ font-family:Arial;
+ color:#2c3e50;
+}
+.left h3
+{
+ margin-bottom:10px;
+}
+.right
+{
+ float:right;
+ font-family:Arial;
+}
+.ipt
+{
+ width:180px;
+ height:30px;
+ margin-top:10px;
+ margin-right:05px;
+ border-radius:03px;
+ border:none;
+ border:1px solid #95a5a6;
+ padding-left:10px;
+ font-size:20px;
+}
+.ipt2
+{
+ width:380px;
+ height:30px;
+ margin-top:10px;
+ margin-right:05px;
+ border-radius:03px;
+ border:none;
+ border:1px solid #95a5a6;
+ padding-left:10px;
+ font-size:20px; 
+
+}
+.dropdown
+{
+ width:60px;
+ height:30px;
+
+}
+.bir
+{
+ margin-top:23px;
+ margin-bottom:1px;
+}
